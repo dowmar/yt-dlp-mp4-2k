@@ -6,3 +6,7 @@ I made this script to download best version of the video on mp4.
 It also change the name to your liking, and adds serial to it.
 
 Works on Fedora 39 or later.
+
+Files required : 
+yt-dlp
+ffmpeg
